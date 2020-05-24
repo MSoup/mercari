@@ -5,9 +5,10 @@
 3. ~~Copy response text into python~~
 4. ~~Deserialize response~~
 5. ~~Created database of items and associated prices~~
-6. Tag sold items
-7. Take remaining items and create interface for user (1 - edit single item, 2 - edit multiple items, a - edit all items)
-8. Iterate through items (go to each individual item edit page and edit prices accordingly) 
+6. ~~Tag sold items~~
+7. ~~Create json of all listings~~
+8. Allow manipulation of items (1 - edit single item, 2 - edit multiple items, a - edit all items)
+9. Iterate through items (go to each individual item edit page and edit prices accordingly) 
 - *read about how to edit fields here*
 
 Thoughts for security:
